@@ -1,0 +1,3 @@
+enum Especie{
+  cachorro, gato
+}
